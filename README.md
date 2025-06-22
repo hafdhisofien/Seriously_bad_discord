@@ -1,0 +1,1 @@
+A discord bot to manage guild ranks
